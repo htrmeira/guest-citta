@@ -1,0 +1,4736 @@
+Fri Aug  1 16:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406923141
+tempo_segundos: 84038
+tempo_minutos: 1400
+suspendeu: 0
+23 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Fri Aug  1 17:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406923201
+tempo_segundos: 84098
+tempo_minutos: 1401
+suspendeu: 0
+23 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Fri Aug  1 17:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406926741
+tempo_segundos: 87638
+tempo_minutos: 1460
+suspendeu: 0
+24 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Fri Aug  1 18:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406926801
+tempo_segundos: 87698
+tempo_minutos: 1461
+suspendeu: 0
+24 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Fri Aug  1 18:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406930341
+tempo_segundos: 91238
+tempo_minutos: 1520
+suspendeu: 0
+25 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Fri Aug  1 19:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406930401
+tempo_segundos: 91298
+tempo_minutos: 1521
+suspendeu: 0
+25 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Fri Aug  1 19:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406933941
+tempo_segundos: 94838
+tempo_minutos: 1580
+suspendeu: 0
+26 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Fri Aug  1 20:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406934001
+tempo_segundos: 94898
+tempo_minutos: 1581
+suspendeu: 0
+26 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Fri Aug  1 20:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406937541
+tempo_segundos: 98438
+tempo_minutos: 1640
+suspendeu: 0
+27 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Fri Aug  1 21:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406937601
+tempo_segundos: 98498
+tempo_minutos: 1641
+suspendeu: 0
+27 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Fri Aug  1 21:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406941141
+tempo_segundos: 102038
+tempo_minutos: 1700
+suspendeu: 0
+28 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Fri Aug  1 22:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406941201
+tempo_segundos: 102098
+tempo_minutos: 1701
+suspendeu: 0
+28 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Fri Aug  1 22:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406944741
+tempo_segundos: 105638
+tempo_minutos: 1760
+suspendeu: 0
+29 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Fri Aug  1 23:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406944801
+tempo_segundos: 105698
+tempo_minutos: 1761
+suspendeu: 0
+29 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Fri Aug  1 23:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406948341
+tempo_segundos: 109238
+tempo_minutos: 1820
+suspendeu: 0
+30 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 00:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406948401
+tempo_segundos: 109298
+tempo_minutos: 1821
+suspendeu: 0
+30 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 00:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406951941
+tempo_segundos: 112838
+tempo_minutos: 1880
+suspendeu: 0
+31 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 01:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406952001
+tempo_segundos: 112898
+tempo_minutos: 1881
+suspendeu: 0
+31 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 01:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406955541
+tempo_segundos: 116438
+tempo_minutos: 1940
+suspendeu: 0
+32 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 02:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406955601
+tempo_segundos: 116498
+tempo_minutos: 1941
+suspendeu: 0
+32 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 02:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406959141
+tempo_segundos: 120038
+tempo_minutos: 2000
+suspendeu: 0
+33 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 03:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406959201
+tempo_segundos: 120098
+tempo_minutos: 2001
+suspendeu: 0
+33 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 03:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406962741
+tempo_segundos: 123638
+tempo_minutos: 2060
+suspendeu: 0
+34 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 04:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406962801
+tempo_segundos: 123698
+tempo_minutos: 2061
+suspendeu: 0
+34 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 04:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406966341
+tempo_segundos: 127238
+tempo_minutos: 2120
+suspendeu: 0
+35 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 05:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406966401
+tempo_segundos: 127298
+tempo_minutos: 2121
+suspendeu: 0
+35 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 05:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406969941
+tempo_segundos: 130838
+tempo_minutos: 2180
+suspendeu: 0
+36 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 06:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406970001
+tempo_segundos: 130898
+tempo_minutos: 2181
+suspendeu: 0
+36 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 06:59:02 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406973542
+tempo_segundos: 134439
+tempo_minutos: 2240
+suspendeu: 0
+37 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 07:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406973601
+tempo_segundos: 134498
+tempo_minutos: 2241
+suspendeu: 0
+37 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 07:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406977141
+tempo_segundos: 138038
+tempo_minutos: 2300
+suspendeu: 0
+38 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 08:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406977201
+tempo_segundos: 138098
+tempo_minutos: 2301
+suspendeu: 0
+38 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 08:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406980741
+tempo_segundos: 141638
+tempo_minutos: 2360
+suspendeu: 0
+39 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 09:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406980801
+tempo_segundos: 141698
+tempo_minutos: 2361
+suspendeu: 0
+39 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 09:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406984341
+tempo_segundos: 145238
+tempo_minutos: 2420
+suspendeu: 0
+40 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 10:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406984401
+tempo_segundos: 145298
+tempo_minutos: 2421
+suspendeu: 0
+40 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 10:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406987941
+tempo_segundos: 148838
+tempo_minutos: 2480
+suspendeu: 0
+41 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 11:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406988001
+tempo_segundos: 148898
+tempo_minutos: 2481
+suspendeu: 0
+41 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 11:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406991541
+tempo_segundos: 152438
+tempo_minutos: 2540
+suspendeu: 0
+42 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 12:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406991601
+tempo_segundos: 152498
+tempo_minutos: 2541
+suspendeu: 0
+42 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 12:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406995141
+tempo_segundos: 156038
+tempo_minutos: 2600
+suspendeu: 0
+43 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 13:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406995201
+tempo_segundos: 156098
+tempo_minutos: 2601
+suspendeu: 0
+43 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 13:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406998741
+tempo_segundos: 159638
+tempo_minutos: 2660
+suspendeu: 0
+44 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 14:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1406998801
+tempo_segundos: 159698
+tempo_minutos: 2661
+suspendeu: 0
+44 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 14:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407002341
+tempo_segundos: 163238
+tempo_minutos: 2720
+suspendeu: 0
+45 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 15:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407002401
+tempo_segundos: 163298
+tempo_minutos: 2721
+suspendeu: 0
+45 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 15:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407005941
+tempo_segundos: 166838
+tempo_minutos: 2780
+suspendeu: 0
+46 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 16:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407006001
+tempo_segundos: 166898
+tempo_minutos: 2781
+suspendeu: 0
+46 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 16:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407009541
+tempo_segundos: 170438
+tempo_minutos: 2840
+suspendeu: 0
+47 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 17:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407009601
+tempo_segundos: 170498
+tempo_minutos: 2841
+suspendeu: 0
+47 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 17:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407013141
+tempo_segundos: 174038
+tempo_minutos: 2900
+suspendeu: 0
+48 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste2 com sucesso
+================= terminou_while ================= 
+ 
+Sat Aug  2 18:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407013201
+tempo_segundos: 174098
+tempo_minutos: 2901
+suspendeu: 1
+48 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 18:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407016741
+tempo_segundos: 177638
+tempo_minutos: 2960
+suspendeu: 1
+49 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 19:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407016801
+tempo_segundos: 177698
+tempo_minutos: 2961
+suspendeu: 1
+49 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 19:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407020341
+tempo_segundos: 181238
+tempo_minutos: 3020
+suspendeu: 1
+50 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 20:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407020401
+tempo_segundos: 181298
+tempo_minutos: 3021
+suspendeu: 1
+50 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 20:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407023941
+tempo_segundos: 184838
+tempo_minutos: 3080
+suspendeu: 1
+51 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 21:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407024001
+tempo_segundos: 184898
+tempo_minutos: 3081
+suspendeu: 1
+51 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 21:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407027541
+tempo_segundos: 188438
+tempo_minutos: 3140
+suspendeu: 1
+52 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 22:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407027601
+tempo_segundos: 188498
+tempo_minutos: 3141
+suspendeu: 1
+52 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 22:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407031141
+tempo_segundos: 192038
+tempo_minutos: 3200
+suspendeu: 1
+53 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 23:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407031201
+tempo_segundos: 192098
+tempo_minutos: 3201
+suspendeu: 1
+53 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sat Aug  2 23:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407034741
+tempo_segundos: 195638
+tempo_minutos: 3260
+suspendeu: 1
+54 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 00:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407034801
+tempo_segundos: 195698
+tempo_minutos: 3261
+suspendeu: 1
+54 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 00:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407038341
+tempo_segundos: 199238
+tempo_minutos: 3320
+suspendeu: 1
+55 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 01:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407038401
+tempo_segundos: 199298
+tempo_minutos: 3321
+suspendeu: 1
+55 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 01:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407041941
+tempo_segundos: 202838
+tempo_minutos: 3380
+suspendeu: 1
+56 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 02:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407042001
+tempo_segundos: 202898
+tempo_minutos: 3381
+suspendeu: 1
+56 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 02:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407045541
+tempo_segundos: 206438
+tempo_minutos: 3440
+suspendeu: 1
+57 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 03:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407045601
+tempo_segundos: 206498
+tempo_minutos: 3441
+suspendeu: 1
+57 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 03:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407049141
+tempo_segundos: 210038
+tempo_minutos: 3500
+suspendeu: 1
+58 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 04:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407049201
+tempo_segundos: 210098
+tempo_minutos: 3501
+suspendeu: 1
+58 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 04:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407052741
+tempo_segundos: 213638
+tempo_minutos: 3560
+suspendeu: 1
+59 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 05:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407052801
+tempo_segundos: 213698
+tempo_minutos: 3561
+suspendeu: 1
+59 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 05:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407056341
+tempo_segundos: 217238
+tempo_minutos: 3620
+suspendeu: 1
+60 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 06:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407056401
+tempo_segundos: 217298
+tempo_minutos: 3621
+suspendeu: 1
+60 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 06:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407059941
+tempo_segundos: 220838
+tempo_minutos: 3680
+suspendeu: 1
+61 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 07:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407060001
+tempo_segundos: 220898
+tempo_minutos: 3681
+suspendeu: 1
+61 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 07:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407063541
+tempo_segundos: 224438
+tempo_minutos: 3740
+suspendeu: 1
+62 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 08:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407063601
+tempo_segundos: 224498
+tempo_minutos: 3741
+suspendeu: 1
+62 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 08:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407067141
+tempo_segundos: 228038
+tempo_minutos: 3800
+suspendeu: 1
+63 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 09:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407067201
+tempo_segundos: 228098
+tempo_minutos: 3801
+suspendeu: 1
+63 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 09:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407070741
+tempo_segundos: 231638
+tempo_minutos: 3860
+suspendeu: 1
+64 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 10:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407070801
+tempo_segundos: 231698
+tempo_minutos: 3861
+suspendeu: 1
+64 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 10:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407074341
+tempo_segundos: 235238
+tempo_minutos: 3920
+suspendeu: 1
+65 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 11:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407074401
+tempo_segundos: 235298
+tempo_minutos: 3921
+suspendeu: 1
+65 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 11:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407077941
+tempo_segundos: 238838
+tempo_minutos: 3980
+suspendeu: 1
+66 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 12:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407078001
+tempo_segundos: 238898
+tempo_minutos: 3981
+suspendeu: 1
+66 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 12:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407081541
+tempo_segundos: 242438
+tempo_minutos: 4040
+suspendeu: 1
+67 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 13:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407081601
+tempo_segundos: 242498
+tempo_minutos: 4041
+suspendeu: 1
+67 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 13:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407085141
+tempo_segundos: 246038
+tempo_minutos: 4100
+suspendeu: 1
+68 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 14:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407085201
+tempo_segundos: 246098
+tempo_minutos: 4101
+suspendeu: 1
+68 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 14:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407088741
+tempo_segundos: 249638
+tempo_minutos: 4160
+suspendeu: 1
+69 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 15:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407088801
+tempo_segundos: 249698
+tempo_minutos: 4161
+suspendeu: 1
+69 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 15:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407092341
+tempo_segundos: 253238
+tempo_minutos: 4220
+suspendeu: 1
+70 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 16:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407092401
+tempo_segundos: 253298
+tempo_minutos: 4221
+suspendeu: 1
+70 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 16:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407095941
+tempo_segundos: 256838
+tempo_minutos: 4280
+suspendeu: 1
+71 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 17:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407096001
+tempo_segundos: 256898
+tempo_minutos: 4281
+suspendeu: 1
+71 horas se passaram
+caiu_no_else
+------nada feito para teste2
+================= terminou_while ================= 
+ 
+Sun Aug  3 17:59:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407099541
+tempo_segundos: 260438
+tempo_minutos: 4340
+suspendeu: 1
+72 horas se passaram
+caiu_no_elif
+Sun Aug  3 18:00:01 BRT 2014
+================================================
+usuario: teste2
+tempo_usuario: 1406839103
+tempo_atual: 1407099601
+tempo_segundos: 260498
+tempo_minutos: 4341
+suspendeu: 1
+72 horas se passaram
+caiu_no_elif
+------remocao de teste2 com sucesso
+================= terminou_while ================= 
+ 
+------remocao de teste2 com sucesso
+================= terminou_while ================= 
+ 
+Sun Aug  3 18:59:01 BRT 2014
+Sun Aug  3 19:00:01 BRT 2014
+Sun Aug  3 19:59:01 BRT 2014
+Sun Aug  3 20:00:01 BRT 2014
+Sun Aug  3 20:59:01 BRT 2014
+Sun Aug  3 21:00:01 BRT 2014
+Sun Aug  3 21:59:01 BRT 2014
+Sun Aug  3 22:00:01 BRT 2014
+Sun Aug  3 22:59:01 BRT 2014
+Sun Aug  3 23:00:01 BRT 2014
+Sun Aug  3 23:59:01 BRT 2014
+Mon Aug  4 00:00:01 BRT 2014
+Mon Aug  4 00:59:01 BRT 2014
+Mon Aug  4 01:00:01 BRT 2014
+Mon Aug  4 01:59:01 BRT 2014
+Mon Aug  4 02:00:01 BRT 2014
+Mon Aug  4 02:59:01 BRT 2014
+Mon Aug  4 03:00:01 BRT 2014
+Mon Aug  4 03:59:01 BRT 2014
+Mon Aug  4 04:00:01 BRT 2014
+Mon Aug  4 04:59:01 BRT 2014
+Mon Aug  4 05:00:01 BRT 2014
+Mon Aug  4 05:59:01 BRT 2014
+Mon Aug  4 06:00:01 BRT 2014
+Mon Aug  4 06:59:01 BRT 2014
+Mon Aug  4 07:00:01 BRT 2014
+Mon Aug  4 07:59:01 BRT 2014
+Mon Aug  4 08:00:01 BRT 2014
+Mon Aug  4 08:59:01 BRT 2014
+Mon Aug  4 09:00:01 BRT 2014
+Mon Aug  4 09:59:01 BRT 2014
+Mon Aug  4 10:00:01 BRT 2014
+Mon Aug  4 10:48:43 BRT 2014
+Mon Aug  4 10:56:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407160561
+tempo_segundos: 17
+tempo_minutos: 0
+suspendeu: 0
+0 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+Mon Aug  4 10:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407160741
+tempo_segundos: 197
+tempo_minutos: 3
+suspendeu: 0
+0 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+Mon Aug  4 11:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407160801
+tempo_segundos: 257
+tempo_minutos: 4
+suspendeu: 0
+0 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+Mon Aug  4 14:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407175141
+tempo_segundos: 14597
+tempo_minutos: 243
+suspendeu: 0
+4 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+Mon Aug  4 15:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407175201
+tempo_segundos: 14657
+tempo_minutos: 244
+suspendeu: 0
+4 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+Mon Aug  4 15:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407178741
+tempo_segundos: 18197
+tempo_minutos: 303
+suspendeu: 0
+5 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+Mon Aug  4 16:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407178801
+tempo_segundos: 18257
+tempo_minutos: 304
+suspendeu: 0
+5 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+Mon Aug  4 16:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407182341
+tempo_segundos: 21797
+tempo_minutos: 363
+suspendeu: 0
+6 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+Mon Aug  4 17:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407182401
+tempo_segundos: 21857
+tempo_minutos: 364
+suspendeu: 0
+6 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+Mon Aug  4 17:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407185941
+tempo_segundos: 25397
+tempo_minutos: 423
+suspendeu: 0
+7 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+Mon Aug  4 18:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407186001
+tempo_segundos: 25457
+tempo_minutos: 424
+suspendeu: 0
+7 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+Mon Aug  4 18:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407189541
+tempo_segundos: 28997
+tempo_minutos: 483
+suspendeu: 0
+8 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+Mon Aug  4 19:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407189601
+tempo_segundos: 29057
+tempo_minutos: 484
+suspendeu: 0
+8 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+Mon Aug  4 19:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407193141
+tempo_segundos: 32597
+tempo_minutos: 543
+suspendeu: 0
+9 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+Mon Aug  4 20:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407193201
+tempo_segundos: 32657
+tempo_minutos: 544
+suspendeu: 0
+9 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+Mon Aug  4 20:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407196741
+tempo_segundos: 36197
+tempo_minutos: 603
+suspendeu: 0
+10 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+Mon Aug  4 21:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407196801
+tempo_segundos: 36257
+tempo_minutos: 604
+suspendeu: 0
+10 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+Mon Aug  4 21:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407200341
+tempo_segundos: 39797
+tempo_minutos: 663
+suspendeu: 0
+11 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+Mon Aug  4 22:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407200401
+tempo_segundos: 39857
+tempo_minutos: 664
+suspendeu: 0
+11 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+Mon Aug  4 22:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407203941
+tempo_segundos: 43397
+tempo_minutos: 723
+suspendeu: 0
+12 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+Mon Aug  4 23:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407204001
+tempo_segundos: 43457
+tempo_minutos: 724
+suspendeu: 0
+12 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+Mon Aug  4 23:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407207541
+tempo_segundos: 46997
+tempo_minutos: 783
+suspendeu: 0
+13 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407207542
+tempo_segundos: 34
+tempo_minutos: 0
+suspendeu: 0
+0 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 00:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407207601
+tempo_segundos: 47057
+tempo_minutos: 784
+suspendeu: 0
+13 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407207602
+tempo_segundos: 94
+tempo_minutos: 1
+suspendeu: 0
+0 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 00:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407211141
+tempo_segundos: 50597
+tempo_minutos: 843
+suspendeu: 0
+14 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407211142
+tempo_segundos: 3634
+tempo_minutos: 60
+suspendeu: 0
+1 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 01:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407211201
+tempo_segundos: 50657
+tempo_minutos: 844
+suspendeu: 0
+14 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407211202
+tempo_segundos: 3694
+tempo_minutos: 61
+suspendeu: 0
+1 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 01:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407214741
+tempo_segundos: 54197
+tempo_minutos: 903
+suspendeu: 0
+15 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407214742
+tempo_segundos: 7234
+tempo_minutos: 120
+suspendeu: 0
+2 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 02:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407214801
+tempo_segundos: 54257
+tempo_minutos: 904
+suspendeu: 0
+15 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407214802
+tempo_segundos: 7294
+tempo_minutos: 121
+suspendeu: 0
+2 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 02:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407218341
+tempo_segundos: 57797
+tempo_minutos: 963
+suspendeu: 0
+16 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407218342
+tempo_segundos: 10834
+tempo_minutos: 180
+suspendeu: 0
+3 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 03:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407218401
+tempo_segundos: 57857
+tempo_minutos: 964
+suspendeu: 0
+16 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407218402
+tempo_segundos: 10894
+tempo_minutos: 181
+suspendeu: 0
+3 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 03:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407221941
+tempo_segundos: 61397
+tempo_minutos: 1023
+suspendeu: 0
+17 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407221942
+tempo_segundos: 14434
+tempo_minutos: 240
+suspendeu: 0
+4 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 04:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407222001
+tempo_segundos: 61457
+tempo_minutos: 1024
+suspendeu: 0
+17 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407222002
+tempo_segundos: 14494
+tempo_minutos: 241
+suspendeu: 0
+4 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 04:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407225541
+tempo_segundos: 64997
+tempo_minutos: 1083
+suspendeu: 0
+18 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407225542
+tempo_segundos: 18034
+tempo_minutos: 300
+suspendeu: 0
+5 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 05:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407225601
+tempo_segundos: 65057
+tempo_minutos: 1084
+suspendeu: 0
+18 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407225602
+tempo_segundos: 18094
+tempo_minutos: 301
+suspendeu: 0
+5 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 05:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407229141
+tempo_segundos: 68597
+tempo_minutos: 1143
+suspendeu: 0
+19 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407229142
+tempo_segundos: 21634
+tempo_minutos: 360
+suspendeu: 0
+6 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 06:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407229201
+tempo_segundos: 68657
+tempo_minutos: 1144
+suspendeu: 0
+19 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407229202
+tempo_segundos: 21694
+tempo_minutos: 361
+suspendeu: 0
+6 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 06:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407232741
+tempo_segundos: 72197
+tempo_minutos: 1203
+suspendeu: 0
+20 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407232742
+tempo_segundos: 25234
+tempo_minutos: 420
+suspendeu: 0
+7 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 07:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407232801
+tempo_segundos: 72257
+tempo_minutos: 1204
+suspendeu: 0
+20 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407232802
+tempo_segundos: 25294
+tempo_minutos: 421
+suspendeu: 0
+7 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 07:59:02 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407236342
+tempo_segundos: 75798
+tempo_minutos: 1263
+suspendeu: 0
+21 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407236343
+tempo_segundos: 28835
+tempo_minutos: 480
+suspendeu: 0
+8 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 08:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407236401
+tempo_segundos: 75857
+tempo_minutos: 1264
+suspendeu: 0
+21 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407236402
+tempo_segundos: 28894
+tempo_minutos: 481
+suspendeu: 0
+8 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 08:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407239941
+tempo_segundos: 79397
+tempo_minutos: 1323
+suspendeu: 0
+22 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407239942
+tempo_segundos: 32434
+tempo_minutos: 540
+suspendeu: 0
+9 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 09:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407240001
+tempo_segundos: 79457
+tempo_minutos: 1324
+suspendeu: 0
+22 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407240002
+tempo_segundos: 32494
+tempo_minutos: 541
+suspendeu: 0
+9 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 09:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407243541
+tempo_segundos: 82997
+tempo_minutos: 1383
+suspendeu: 0
+23 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407243542
+tempo_segundos: 36034
+tempo_minutos: 600
+suspendeu: 0
+10 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 10:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407243601
+tempo_segundos: 83057
+tempo_minutos: 1384
+suspendeu: 0
+23 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407243602
+tempo_segundos: 36094
+tempo_minutos: 601
+suspendeu: 0
+10 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 10:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407247141
+tempo_segundos: 86597
+tempo_minutos: 1443
+suspendeu: 0
+24 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407247142
+tempo_segundos: 39634
+tempo_minutos: 660
+suspendeu: 0
+11 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 11:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407247201
+tempo_segundos: 86657
+tempo_minutos: 1444
+suspendeu: 0
+24 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407247202
+tempo_segundos: 39694
+tempo_minutos: 661
+suspendeu: 0
+11 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 11:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407250741
+tempo_segundos: 90197
+tempo_minutos: 1503
+suspendeu: 0
+25 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407250742
+tempo_segundos: 43234
+tempo_minutos: 720
+suspendeu: 0
+12 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 12:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407250801
+tempo_segundos: 90257
+tempo_minutos: 1504
+suspendeu: 0
+25 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407250802
+tempo_segundos: 43294
+tempo_minutos: 721
+suspendeu: 0
+12 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 12:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407254341
+tempo_segundos: 93797
+tempo_minutos: 1563
+suspendeu: 0
+26 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407254342
+tempo_segundos: 46834
+tempo_minutos: 780
+suspendeu: 0
+13 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 13:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407254401
+tempo_segundos: 93857
+tempo_minutos: 1564
+suspendeu: 0
+26 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407254402
+tempo_segundos: 46894
+tempo_minutos: 781
+suspendeu: 0
+13 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 13:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407257941
+tempo_segundos: 97397
+tempo_minutos: 1623
+suspendeu: 0
+27 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407257942
+tempo_segundos: 50434
+tempo_minutos: 840
+suspendeu: 0
+14 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 14:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407258001
+tempo_segundos: 97457
+tempo_minutos: 1624
+suspendeu: 0
+27 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407258002
+tempo_segundos: 50494
+tempo_minutos: 841
+suspendeu: 0
+14 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 14:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407261541
+tempo_segundos: 100997
+tempo_minutos: 1683
+suspendeu: 0
+28 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407261542
+tempo_segundos: 54034
+tempo_minutos: 900
+suspendeu: 0
+15 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 15:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407261601
+tempo_segundos: 101057
+tempo_minutos: 1684
+suspendeu: 0
+28 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407261602
+tempo_segundos: 54094
+tempo_minutos: 901
+suspendeu: 0
+15 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 15:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407265141
+tempo_segundos: 104597
+tempo_minutos: 1743
+suspendeu: 0
+29 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407265142
+tempo_segundos: 57634
+tempo_minutos: 960
+suspendeu: 0
+16 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 16:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407265201
+tempo_segundos: 104657
+tempo_minutos: 1744
+suspendeu: 0
+29 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407265202
+tempo_segundos: 57694
+tempo_minutos: 961
+suspendeu: 0
+16 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 16:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407268741
+tempo_segundos: 108197
+tempo_minutos: 1803
+suspendeu: 0
+30 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407268742
+tempo_segundos: 61234
+tempo_minutos: 1020
+suspendeu: 0
+17 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 17:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407268801
+tempo_segundos: 108257
+tempo_minutos: 1804
+suspendeu: 0
+30 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407268802
+tempo_segundos: 61294
+tempo_minutos: 1021
+suspendeu: 0
+17 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 17:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407272341
+tempo_segundos: 111797
+tempo_minutos: 1863
+suspendeu: 0
+31 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407272342
+tempo_segundos: 64834
+tempo_minutos: 1080
+suspendeu: 0
+18 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 18:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407272401
+tempo_segundos: 111857
+tempo_minutos: 1864
+suspendeu: 0
+31 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407272402
+tempo_segundos: 64894
+tempo_minutos: 1081
+suspendeu: 0
+18 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 18:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407275941
+tempo_segundos: 115397
+tempo_minutos: 1923
+suspendeu: 0
+32 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407275942
+tempo_segundos: 68434
+tempo_minutos: 1140
+suspendeu: 0
+19 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 19:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407276001
+tempo_segundos: 115457
+tempo_minutos: 1924
+suspendeu: 0
+32 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407276002
+tempo_segundos: 68494
+tempo_minutos: 1141
+suspendeu: 0
+19 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 19:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407279541
+tempo_segundos: 118997
+tempo_minutos: 1983
+suspendeu: 0
+33 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407279542
+tempo_segundos: 72034
+tempo_minutos: 1200
+suspendeu: 0
+20 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 20:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407279601
+tempo_segundos: 119057
+tempo_minutos: 1984
+suspendeu: 0
+33 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407279602
+tempo_segundos: 72094
+tempo_minutos: 1201
+suspendeu: 0
+20 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 20:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407283141
+tempo_segundos: 122597
+tempo_minutos: 2043
+suspendeu: 0
+34 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407283142
+tempo_segundos: 75634
+tempo_minutos: 1260
+suspendeu: 0
+21 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 21:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407283201
+tempo_segundos: 122657
+tempo_minutos: 2044
+suspendeu: 0
+34 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407283202
+tempo_segundos: 75694
+tempo_minutos: 1261
+suspendeu: 0
+21 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 21:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407286741
+tempo_segundos: 126197
+tempo_minutos: 2103
+suspendeu: 0
+35 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407286742
+tempo_segundos: 79234
+tempo_minutos: 1320
+suspendeu: 0
+22 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 22:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407286801
+tempo_segundos: 126257
+tempo_minutos: 2104
+suspendeu: 0
+35 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407286802
+tempo_segundos: 79294
+tempo_minutos: 1321
+suspendeu: 0
+22 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 22:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407290341
+tempo_segundos: 129797
+tempo_minutos: 2163
+suspendeu: 0
+36 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407290342
+tempo_segundos: 82834
+tempo_minutos: 1380
+suspendeu: 0
+23 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 23:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407290401
+tempo_segundos: 129857
+tempo_minutos: 2164
+suspendeu: 0
+36 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407290402
+tempo_segundos: 82894
+tempo_minutos: 1381
+suspendeu: 0
+23 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Tue Aug  5 23:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407293941
+tempo_segundos: 133397
+tempo_minutos: 2223
+suspendeu: 0
+37 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407293942
+tempo_segundos: 86434
+tempo_minutos: 1440
+suspendeu: 0
+24 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 00:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407294001
+tempo_segundos: 133457
+tempo_minutos: 2224
+suspendeu: 0
+37 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407294002
+tempo_segundos: 86494
+tempo_minutos: 1441
+suspendeu: 0
+24 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 00:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407297541
+tempo_segundos: 136997
+tempo_minutos: 2283
+suspendeu: 0
+38 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407297542
+tempo_segundos: 90034
+tempo_minutos: 1500
+suspendeu: 0
+25 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 01:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407297601
+tempo_segundos: 137057
+tempo_minutos: 2284
+suspendeu: 0
+38 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407297602
+tempo_segundos: 90094
+tempo_minutos: 1501
+suspendeu: 0
+25 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 01:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407301141
+tempo_segundos: 140597
+tempo_minutos: 2343
+suspendeu: 0
+39 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407301142
+tempo_segundos: 93634
+tempo_minutos: 1560
+suspendeu: 0
+26 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 02:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407301201
+tempo_segundos: 140657
+tempo_minutos: 2344
+suspendeu: 0
+39 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407301202
+tempo_segundos: 93694
+tempo_minutos: 1561
+suspendeu: 0
+26 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 02:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407304741
+tempo_segundos: 144197
+tempo_minutos: 2403
+suspendeu: 0
+40 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407304742
+tempo_segundos: 97234
+tempo_minutos: 1620
+suspendeu: 0
+27 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 03:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407304801
+tempo_segundos: 144257
+tempo_minutos: 2404
+suspendeu: 0
+40 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407304802
+tempo_segundos: 97294
+tempo_minutos: 1621
+suspendeu: 0
+27 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 03:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407308341
+tempo_segundos: 147797
+tempo_minutos: 2463
+suspendeu: 0
+41 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407308342
+tempo_segundos: 100834
+tempo_minutos: 1680
+suspendeu: 0
+28 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 04:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407308401
+tempo_segundos: 147857
+tempo_minutos: 2464
+suspendeu: 0
+41 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407308402
+tempo_segundos: 100894
+tempo_minutos: 1681
+suspendeu: 0
+28 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 04:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407311941
+tempo_segundos: 151397
+tempo_minutos: 2523
+suspendeu: 0
+42 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407311942
+tempo_segundos: 104434
+tempo_minutos: 1740
+suspendeu: 0
+29 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 05:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407312001
+tempo_segundos: 151457
+tempo_minutos: 2524
+suspendeu: 0
+42 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407312002
+tempo_segundos: 104494
+tempo_minutos: 1741
+suspendeu: 0
+29 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 05:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407315541
+tempo_segundos: 154997
+tempo_minutos: 2583
+suspendeu: 0
+43 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407315542
+tempo_segundos: 108034
+tempo_minutos: 1800
+suspendeu: 0
+30 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 06:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407315601
+tempo_segundos: 155057
+tempo_minutos: 2584
+suspendeu: 0
+43 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407315602
+tempo_segundos: 108094
+tempo_minutos: 1801
+suspendeu: 0
+30 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 06:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407319141
+tempo_segundos: 158597
+tempo_minutos: 2643
+suspendeu: 0
+44 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407319142
+tempo_segundos: 111634
+tempo_minutos: 1860
+suspendeu: 0
+31 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 07:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407319201
+tempo_segundos: 158657
+tempo_minutos: 2644
+suspendeu: 0
+44 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407319202
+tempo_segundos: 111694
+tempo_minutos: 1861
+suspendeu: 0
+31 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 07:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407322741
+tempo_segundos: 162197
+tempo_minutos: 2703
+suspendeu: 0
+45 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407322742
+tempo_segundos: 115234
+tempo_minutos: 1920
+suspendeu: 0
+32 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 08:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407322801
+tempo_segundos: 162257
+tempo_minutos: 2704
+suspendeu: 0
+45 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407322802
+tempo_segundos: 115294
+tempo_minutos: 1921
+suspendeu: 0
+32 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 08:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407326341
+tempo_segundos: 165797
+tempo_minutos: 2763
+suspendeu: 0
+46 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407326342
+tempo_segundos: 118834
+tempo_minutos: 1980
+suspendeu: 0
+33 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 09:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407326401
+tempo_segundos: 165857
+tempo_minutos: 2764
+suspendeu: 0
+46 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407326403
+tempo_segundos: 118895
+tempo_minutos: 1981
+suspendeu: 0
+33 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 09:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407329941
+tempo_segundos: 169397
+tempo_minutos: 2823
+suspendeu: 0
+47 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407329942
+tempo_segundos: 122434
+tempo_minutos: 2040
+suspendeu: 0
+34 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 10:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407330001
+tempo_segundos: 169457
+tempo_minutos: 2824
+suspendeu: 0
+47 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407330002
+tempo_segundos: 122494
+tempo_minutos: 2041
+suspendeu: 0
+34 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 10:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407333541
+tempo_segundos: 172997
+tempo_minutos: 2883
+suspendeu: 0
+48 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script3 com sucesso
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407333545
+tempo_segundos: 126037
+tempo_minutos: 2100
+suspendeu: 0
+35 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 11:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407333601
+tempo_segundos: 173057
+tempo_minutos: 2884
+suspendeu: 1
+48 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407333602
+tempo_segundos: 126094
+tempo_minutos: 2101
+suspendeu: 1
+35 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 11:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407337141
+tempo_segundos: 176597
+tempo_minutos: 2943
+suspendeu: 1
+49 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407337142
+tempo_segundos: 129634
+tempo_minutos: 2160
+suspendeu: 0
+36 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 12:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407337201
+tempo_segundos: 176657
+tempo_minutos: 2944
+suspendeu: 1
+49 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407337202
+tempo_segundos: 129694
+tempo_minutos: 2161
+suspendeu: 0
+36 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 12:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407340741
+tempo_segundos: 180197
+tempo_minutos: 3003
+suspendeu: 1
+50 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407340742
+tempo_segundos: 133234
+tempo_minutos: 2220
+suspendeu: 0
+37 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 13:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407340801
+tempo_segundos: 180257
+tempo_minutos: 3004
+suspendeu: 1
+50 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407340802
+tempo_segundos: 133294
+tempo_minutos: 2221
+suspendeu: 0
+37 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 13:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407344341
+tempo_segundos: 183797
+tempo_minutos: 3063
+suspendeu: 1
+51 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407344342
+tempo_segundos: 136834
+tempo_minutos: 2280
+suspendeu: 0
+38 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 14:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407344401
+tempo_segundos: 183857
+tempo_minutos: 3064
+suspendeu: 1
+51 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407344402
+tempo_segundos: 136894
+tempo_minutos: 2281
+suspendeu: 0
+38 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 14:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407347941
+tempo_segundos: 187397
+tempo_minutos: 3123
+suspendeu: 1
+52 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407347942
+tempo_segundos: 140434
+tempo_minutos: 2340
+suspendeu: 0
+39 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 15:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407348001
+tempo_segundos: 187457
+tempo_minutos: 3124
+suspendeu: 1
+52 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407348002
+tempo_segundos: 140494
+tempo_minutos: 2341
+suspendeu: 0
+39 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 15:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407351541
+tempo_segundos: 190997
+tempo_minutos: 3183
+suspendeu: 1
+53 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407351542
+tempo_segundos: 144034
+tempo_minutos: 2400
+suspendeu: 0
+40 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 16:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407351601
+tempo_segundos: 191057
+tempo_minutos: 3184
+suspendeu: 1
+53 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407351602
+tempo_segundos: 144094
+tempo_minutos: 2401
+suspendeu: 0
+40 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 16:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407355141
+tempo_segundos: 194597
+tempo_minutos: 3243
+suspendeu: 1
+54 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407355142
+tempo_segundos: 147634
+tempo_minutos: 2460
+suspendeu: 0
+41 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 17:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407355201
+tempo_segundos: 194657
+tempo_minutos: 3244
+suspendeu: 1
+54 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407355202
+tempo_segundos: 147694
+tempo_minutos: 2461
+suspendeu: 0
+41 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 17:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407358741
+tempo_segundos: 198197
+tempo_minutos: 3303
+suspendeu: 1
+55 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407358742
+tempo_segundos: 151234
+tempo_minutos: 2520
+suspendeu: 0
+42 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 18:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407358801
+tempo_segundos: 198257
+tempo_minutos: 3304
+suspendeu: 1
+55 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407358802
+tempo_segundos: 151294
+tempo_minutos: 2521
+suspendeu: 0
+42 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 18:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407362341
+tempo_segundos: 201797
+tempo_minutos: 3363
+suspendeu: 1
+56 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407362342
+tempo_segundos: 154834
+tempo_minutos: 2580
+suspendeu: 0
+43 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 19:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407362401
+tempo_segundos: 201857
+tempo_minutos: 3364
+suspendeu: 1
+56 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407362402
+tempo_segundos: 154894
+tempo_minutos: 2581
+suspendeu: 0
+43 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 19:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407365941
+tempo_segundos: 205397
+tempo_minutos: 3423
+suspendeu: 1
+57 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407365942
+tempo_segundos: 158434
+tempo_minutos: 2640
+suspendeu: 0
+44 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 20:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407366001
+tempo_segundos: 205457
+tempo_minutos: 3424
+suspendeu: 1
+57 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407366002
+tempo_segundos: 158494
+tempo_minutos: 2641
+suspendeu: 0
+44 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 20:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407369541
+tempo_segundos: 208997
+tempo_minutos: 3483
+suspendeu: 1
+58 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407369542
+tempo_segundos: 162034
+tempo_minutos: 2700
+suspendeu: 0
+45 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 21:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407369601
+tempo_segundos: 209057
+tempo_minutos: 3484
+suspendeu: 1
+58 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407369602
+tempo_segundos: 162094
+tempo_minutos: 2701
+suspendeu: 0
+45 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 21:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407373141
+tempo_segundos: 212597
+tempo_minutos: 3543
+suspendeu: 1
+59 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407373142
+tempo_segundos: 165634
+tempo_minutos: 2760
+suspendeu: 0
+46 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 22:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407373201
+tempo_segundos: 212657
+tempo_minutos: 3544
+suspendeu: 1
+59 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407373202
+tempo_segundos: 165694
+tempo_minutos: 2761
+suspendeu: 0
+46 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 22:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407376741
+tempo_segundos: 216197
+tempo_minutos: 3603
+suspendeu: 1
+60 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407376742
+tempo_segundos: 169234
+tempo_minutos: 2820
+suspendeu: 0
+47 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 23:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407376801
+tempo_segundos: 216257
+tempo_minutos: 3604
+suspendeu: 1
+60 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407376802
+tempo_segundos: 169294
+tempo_minutos: 2821
+suspendeu: 0
+47 horas se passaram
+caiu_no_else
+------nada feito para teste_script4
+================= terminou_while ================= 
+ 
+Wed Aug  6 23:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407380341
+tempo_segundos: 219797
+tempo_minutos: 3663
+suspendeu: 1
+61 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407380342
+tempo_segundos: 172834
+tempo_minutos: 2880
+suspendeu: 0
+48 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 00:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407380401
+tempo_segundos: 219857
+tempo_minutos: 3664
+suspendeu: 1
+61 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407380402
+tempo_segundos: 172894
+tempo_minutos: 2881
+suspendeu: 0
+48 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 00:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407383941
+tempo_segundos: 223397
+tempo_minutos: 3723
+suspendeu: 1
+62 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407383942
+tempo_segundos: 176434
+tempo_minutos: 2940
+suspendeu: 0
+49 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 01:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407384001
+tempo_segundos: 223457
+tempo_minutos: 3724
+suspendeu: 1
+62 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407384002
+tempo_segundos: 176494
+tempo_minutos: 2941
+suspendeu: 0
+49 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 01:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407387541
+tempo_segundos: 226997
+tempo_minutos: 3783
+suspendeu: 1
+63 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407387542
+tempo_segundos: 180034
+tempo_minutos: 3000
+suspendeu: 0
+50 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 02:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407387601
+tempo_segundos: 227057
+tempo_minutos: 3784
+suspendeu: 1
+63 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407387602
+tempo_segundos: 180094
+tempo_minutos: 3001
+suspendeu: 0
+50 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 02:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407391141
+tempo_segundos: 230597
+tempo_minutos: 3843
+suspendeu: 1
+64 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407391142
+tempo_segundos: 183634
+tempo_minutos: 3060
+suspendeu: 0
+51 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 03:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407391201
+tempo_segundos: 230657
+tempo_minutos: 3844
+suspendeu: 1
+64 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407391202
+tempo_segundos: 183694
+tempo_minutos: 3061
+suspendeu: 0
+51 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 03:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407394741
+tempo_segundos: 234197
+tempo_minutos: 3903
+suspendeu: 1
+65 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407394742
+tempo_segundos: 187234
+tempo_minutos: 3120
+suspendeu: 0
+52 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 04:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407394801
+tempo_segundos: 234257
+tempo_minutos: 3904
+suspendeu: 1
+65 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407394802
+tempo_segundos: 187294
+tempo_minutos: 3121
+suspendeu: 0
+52 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 04:59:02 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407398342
+tempo_segundos: 237798
+tempo_minutos: 3963
+suspendeu: 1
+66 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407398343
+tempo_segundos: 190835
+tempo_minutos: 3180
+suspendeu: 0
+53 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 05:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407398401
+tempo_segundos: 237857
+tempo_minutos: 3964
+suspendeu: 1
+66 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407398402
+tempo_segundos: 190894
+tempo_minutos: 3181
+suspendeu: 0
+53 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 05:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407401941
+tempo_segundos: 241397
+tempo_minutos: 4023
+suspendeu: 1
+67 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407401942
+tempo_segundos: 194434
+tempo_minutos: 3240
+suspendeu: 0
+54 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 06:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407402001
+tempo_segundos: 241457
+tempo_minutos: 4024
+suspendeu: 1
+67 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407402002
+tempo_segundos: 194494
+tempo_minutos: 3241
+suspendeu: 0
+54 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 06:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407405541
+tempo_segundos: 244997
+tempo_minutos: 4083
+suspendeu: 1
+68 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407405542
+tempo_segundos: 198034
+tempo_minutos: 3300
+suspendeu: 0
+55 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 07:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407405601
+tempo_segundos: 245057
+tempo_minutos: 4084
+suspendeu: 1
+68 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407405602
+tempo_segundos: 198094
+tempo_minutos: 3301
+suspendeu: 0
+55 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 07:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407409141
+tempo_segundos: 248597
+tempo_minutos: 4143
+suspendeu: 1
+69 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407409142
+tempo_segundos: 201634
+tempo_minutos: 3360
+suspendeu: 0
+56 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 08:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407409201
+tempo_segundos: 248657
+tempo_minutos: 4144
+suspendeu: 1
+69 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407409202
+tempo_segundos: 201694
+tempo_minutos: 3361
+suspendeu: 0
+56 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 08:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407412741
+tempo_segundos: 252197
+tempo_minutos: 4203
+suspendeu: 1
+70 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407412742
+tempo_segundos: 205234
+tempo_minutos: 3420
+suspendeu: 0
+57 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 09:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407412801
+tempo_segundos: 252257
+tempo_minutos: 4204
+suspendeu: 1
+70 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407412802
+tempo_segundos: 205294
+tempo_minutos: 3421
+suspendeu: 0
+57 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 09:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407416341
+tempo_segundos: 255797
+tempo_minutos: 4263
+suspendeu: 1
+71 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407416342
+tempo_segundos: 208834
+tempo_minutos: 3480
+suspendeu: 0
+58 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 10:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407416401
+tempo_segundos: 255857
+tempo_minutos: 4264
+suspendeu: 1
+71 horas se passaram
+caiu_no_else
+------nada feito para teste_script3
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407416402
+tempo_segundos: 208894
+tempo_minutos: 3481
+suspendeu: 0
+58 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 10:59:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407419941
+tempo_segundos: 259397
+tempo_minutos: 4323
+suspendeu: 1
+72 horas se passaram
+caiu_no_elif
+Thu Aug  7 11:00:01 BRT 2014
+================================================
+usuario: teste_script3
+tempo_usuario: 1407160544
+tempo_atual: 1407420001
+tempo_segundos: 259457
+tempo_minutos: 4324
+suspendeu: 1
+72 horas se passaram
+caiu_no_elif
+------remocao de teste_script3 com sucesso
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407420097
+tempo_segundos: 212589
+tempo_minutos: 3543
+suspendeu: 0
+59 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+------remocao de teste_script3 com sucesso
+================= terminou_while ================= 
+ 
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407420505
+tempo_segundos: 212997
+tempo_minutos: 3549
+suspendeu: 0
+59 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 11:59:01 BRT 2014
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407423541
+tempo_segundos: 216033
+tempo_minutos: 3600
+suspendeu: 0
+60 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 12:00:01 BRT 2014
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407423601
+tempo_segundos: 216093
+tempo_minutos: 3601
+suspendeu: 0
+60 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 12:59:01 BRT 2014
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407427141
+tempo_segundos: 219633
+tempo_minutos: 3660
+suspendeu: 0
+61 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 13:00:01 BRT 2014
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407427201
+tempo_segundos: 219693
+tempo_minutos: 3661
+suspendeu: 0
+61 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 13:59:01 BRT 2014
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407430741
+tempo_segundos: 223233
+tempo_minutos: 3720
+suspendeu: 0
+62 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 14:00:01 BRT 2014
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407430801
+tempo_segundos: 223293
+tempo_minutos: 3721
+suspendeu: 0
+62 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 14:59:01 BRT 2014
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407434341
+tempo_segundos: 226833
+tempo_minutos: 3780
+suspendeu: 0
+63 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 15:00:02 BRT 2014
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407434402
+tempo_segundos: 226894
+tempo_minutos: 3781
+suspendeu: 0
+63 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 15:59:01 BRT 2014
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407437941
+tempo_segundos: 230433
+tempo_minutos: 3840
+suspendeu: 0
+64 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 
+Thu Aug  7 16:00:01 BRT 2014
+================================================
+usuario: teste_script4
+tempo_usuario: 1407207508
+tempo_atual: 1407438001
+tempo_segundos: 230493
+tempo_minutos: 3841
+suspendeu: 0
+64 horas se passaram
+caiu_no_primeiro_if
+------suspensao de teste_script4 com sucesso
+================= terminou_while ================= 
+ 

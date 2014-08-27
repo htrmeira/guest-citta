@@ -1,0 +1,26 @@
+==================== CREATING USER =================
+==================== CREATING USER =================
+==================== CREATING USER =================
++----------+----------------------------------+
+| Property |              Value               |
++----------+----------------------------------+
+|  email   |        htrmeira@gmail.com        |
+| enabled  |               True               |
+|    id    | eb6f5eb9490c40a68598f3e232c9263d |
+|   name   |           guest109988            |
+| username |           guest109988            |
++----------+----------------------------------+
++-------------+-------------------------------------------+
+|   Property  |                   Value                   |
++-------------+-------------------------------------------+
+| description | Projeto criado para o usuario guest109988 |
+|   enabled   |                    True                   |
+|      id     |      1531a827087f47b7bbb16a6a53775d35     |
+|     name    |                guest109988                |
++-------------+-------------------------------------------+
+created_at=Qua Ago 27 17:50:48 BRT 2014
+date_stamp=1409172648
+username=guest109988
+email=htrmeira@gmail.com
+role=58cda5ba854642378e89c62bb0ee656d
+==================== END CREATION =================
