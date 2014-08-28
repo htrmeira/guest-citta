@@ -1,0 +1,5 @@
+export OS_USERNAME=guest046981
+export OS_PASSWORD=jskqnsOuM7zSN
+export OS_TENANT_ID=165cb2469dc744aa9313dc310fa3d42b
+export OS_TENANT_NAME=guest046981
+export OS_AUTH_URL=http://10.0.0.14:5000/v2.0

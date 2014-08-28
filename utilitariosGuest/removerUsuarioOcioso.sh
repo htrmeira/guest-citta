@@ -74,6 +74,7 @@ done < SnapVolumes$1.txt
 
 rm SnapVolumes$1.txt
 
+# HEITOR: parei aqui
 
 # Removendo Volumes
 # Pega lista de Volumes
