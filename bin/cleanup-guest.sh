@@ -5,8 +5,7 @@
 ######################### BEGIN OF CONFIG #########################
 
 # TODO: redirect output of the comands to a log file. (both stdout and stderr).
-# TODO: remove user.
-# TODO: remove tenant.
+# TODO: check credentials are loaded.
 
 source ../config/environment.sh
 

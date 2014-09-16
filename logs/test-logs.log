@@ -314,3 +314,99 @@ username=guest939994
 email=htrmeira@gmail.com
 role=58cda5ba854642378e89c62bb0ee656d
 ==================== END CREATION =================
+==================== CREATING USER =================
++----------+----------------------------------+
+| Property |              Value               |
++----------+----------------------------------+
+|  email   |        htrmeira@gmail.com        |
+| enabled  |               True               |
+|    id    | d958a6d5b0c84acd9b4a8755a6530170 |
+|   name   |           guest949389            |
+| username |           guest949389            |
++----------+----------------------------------+
++-------------+-------------------------------------------+
+|   Property  |                   Value                   |
++-------------+-------------------------------------------+
+| description | Projeto criado para o usuario guest949389 |
+|   enabled   |                    True                   |
+|      id     |      73c42a20cbb5401a8793f736f5b5f99e     |
+|     name    |                guest949389                |
++-------------+-------------------------------------------+
+created_at=Ter Set 16 16:07:00 BRT 2014
+date_stamp=1410894420
+username=guest949389
+email=htrmeira@gmail.com
+role=58cda5ba854642378e89c62bb0ee656d
+==================== END CREATION =================
+==================== CREATING USER =================
++----------+----------------------------------+
+| Property |              Value               |
++----------+----------------------------------+
+|  email   |        htrmeira@gmail.com        |
+| enabled  |               True               |
+|    id    | 8614744f9de64ac389f4626b25686f40 |
+|   name   |           guest203634            |
+| username |           guest203634            |
++----------+----------------------------------+
++-------------+-------------------------------------------+
+|   Property  |                   Value                   |
++-------------+-------------------------------------------+
+| description | Projeto criado para o usuario guest203634 |
+|   enabled   |                    True                   |
+|      id     |      e728908760f04d4db7f04fb9c589804c     |
+|     name    |                guest203634                |
++-------------+-------------------------------------------+
+created_at=Ter Set 16 16:09:41 BRT 2014
+date_stamp=1410894581
+username=guest203634
+email=htrmeira@gmail.com
+role=58cda5ba854642378e89c62bb0ee656d
+==================== END CREATION =================
+==================== CREATING USER =================
++----------+----------------------------------+
+| Property |              Value               |
++----------+----------------------------------+
+|  email   |        htrmeira@gmail.com        |
+| enabled  |               True               |
+|    id    | 93983f0c55dc4227a38356bac582afd6 |
+|   name   |           guest145183            |
+| username |           guest145183            |
++----------+----------------------------------+
++-------------+-------------------------------------------+
+|   Property  |                   Value                   |
++-------------+-------------------------------------------+
+| description | Projeto criado para o usuario guest145183 |
+|   enabled   |                    True                   |
+|      id     |      ab60d6c16f50422a9fe4f5fe72d562f6     |
+|     name    |                guest145183                |
++-------------+-------------------------------------------+
+created_at=Ter Set 16 16:11:51 BRT 2014
+date_stamp=1410894711
+username=guest145183
+email=htrmeira@gmail.com
+role=58cda5ba854642378e89c62bb0ee656d
+==================== END CREATION =================
+==================== CREATING USER =================
++----------+----------------------------------+
+| Property |              Value               |
++----------+----------------------------------+
+|  email   |        htrmeira@gmail.com        |
+| enabled  |               True               |
+|    id    | 0ad4fc9b049e426fb31387084f4ef893 |
+|   name   |           guest012043            |
+| username |           guest012043            |
++----------+----------------------------------+
++-------------+-------------------------------------------+
+|   Property  |                   Value                   |
++-------------+-------------------------------------------+
+| description | Projeto criado para o usuario guest012043 |
+|   enabled   |                    True                   |
+|      id     |      490754d31c0642f2a08a4c06593270d4     |
+|     name    |                guest012043                |
++-------------+-------------------------------------------+
+created_at=Ter Set 16 16:24:25 BRT 2014
+date_stamp=1410895465
+username=guest012043
+email=htrmeira@gmail.com
+role=58cda5ba854642378e89c62bb0ee656d
+==================== END CREATION =================

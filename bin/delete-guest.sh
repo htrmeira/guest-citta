@@ -2,9 +2,12 @@
 
 ######################### CONFIG #########################
 
+# TODO: check credentials
+# TODO: log stdout and stderr.
+
 source ../config/environment.sh
 
- ############# CHECKING PARAMETERS ##############
+############# CHECKING PARAMETERS ##############
 
 # This method checks if a user was provided as argument of this script.
 # If not it will exit with error.
@@ -48,6 +51,8 @@ cleanup_user() {
 	success_or_die
 }
 
+###################### KEYSTONE ####################
+
 delete_user() {
 	echo -n "==> Deleting user $guest_username..."
 	keystone user-delete $guest_username
@@ -83,20 +88,33 @@ delete_guest_status() {
 	echo "==> Done"
 }
 
+resurrect_tenant() {
+	keystone tenant-update $guest_username --enabled=True
+	success_or_die;
+}
+
+################## EMAIL ##############
+
+send_notification() {
+	local guest_email=$(keystone user-list | grep -i "| *$guest_username *|" | awk -F\| '{ print $5 }' | tr -d ' ')
+	success_or_die;
+	$DELETIONION_MAIL --username $guest_username --email $guest_email
+}
+
 ################ MAIN #################
 main() {
 	define_parameters $@;
 	success_or_die;
 
-	cleanup_user;
+	resurrect_tenant;
 	success_or_die;
+
+	cleanup_user;
+
+	send_notification;
 
 	delete_user;
-	success_or_die;
-
 	delete_tenant;
-	success_or_die;
-
 	delete_credentials;
 	delete_guest_status;
 }
