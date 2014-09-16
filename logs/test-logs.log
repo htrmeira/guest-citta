@@ -266,3 +266,51 @@ username=guest589812
 email=htrmeira@gmail.com
 role=58cda5ba854642378e89c62bb0ee656d
 ==================== END CREATION =================
+==================== CREATING USER =================
++----------+----------------------------------+
+| Property |              Value               |
++----------+----------------------------------+
+|  email   |        htrmeira@gmail.com        |
+| enabled  |               True               |
+|    id    | c52d6014c53c4eea82e040c3073e96ef |
+|   name   |           guest142783            |
+| username |           guest142783            |
++----------+----------------------------------+
++-------------+-------------------------------------------+
+|   Property  |                   Value                   |
++-------------+-------------------------------------------+
+| description | Projeto criado para o usuario guest142783 |
+|   enabled   |                    True                   |
+|      id     |      f26023c858404aeb8aeff4b1cdd929ad     |
+|     name    |                guest142783                |
++-------------+-------------------------------------------+
+created_at=Ter Set 16 14:53:45 BRT 2014
+date_stamp=1410890025
+username=guest142783
+email=htrmeira@gmail.com
+role=58cda5ba854642378e89c62bb0ee656d
+==================== END CREATION =================
+==================== CREATING USER =================
++----------+----------------------------------+
+| Property |              Value               |
++----------+----------------------------------+
+|  email   |        htrmeira@gmail.com        |
+| enabled  |               True               |
+|    id    | 1205f6019deb41579da2332618e8cd21 |
+|   name   |           guest939994            |
+| username |           guest939994            |
++----------+----------------------------------+
++-------------+-------------------------------------------+
+|   Property  |                   Value                   |
++-------------+-------------------------------------------+
+| description | Projeto criado para o usuario guest939994 |
+|   enabled   |                    True                   |
+|      id     |      135e6f26e73f487a8d9944c39d1b9938     |
+|     name    |                guest939994                |
++-------------+-------------------------------------------+
+created_at=Ter Set 16 15:06:21 BRT 2014
+date_stamp=1410890781
+username=guest939994
+email=htrmeira@gmail.com
+role=58cda5ba854642378e89c62bb0ee656d
+==================== END CREATION =================

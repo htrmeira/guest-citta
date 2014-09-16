@@ -10,32 +10,6 @@ source ../config/environment.sh
 
 ########################## END OF CONFIG ##########################
 
-# formated echo with green OK.
-# FIXME: REMOVEME
-#echo_status_ok() {
-#	echo -e "$1 ............. \e[32mOK"; tput sgr0
-#}
-
-# formated echo with red FAIL.
-#echo_status_fail() {
-#	echo -e "$1 ............. \e[31mFAIL"; tput sgr0
-#}
-
-# print a message in RED color, used to report fatal errors.
-#echo_fail() {
-#	echo -e "\e[31m$1"; tput sgr0
-#}
-
-# verify if the variables necessary to make a conection with the cloud are declared.
-# note that this method does not verify if this user has permission to create a user.
-#verify_credetials() {
-#	if [ -z $OS_AUTH_URL ] || [ -z $OS_TENANT_ID ] || \
-#		[ -z $OS_TENANT_NAME ] || [ -z $OS_USERNAME ]; then
-#		echo_fail "You must define your credentials first."
-#		exit 1;
-#	fi
-#}
-
 # checks if the email param was given.
 # this is the only mandatory parameter, so it will fail if this param is not given.
 check_email() {
@@ -105,16 +79,6 @@ debug_variables() {
 	echo "role=$guest_role" >> $LOG_FILE
 }
 
-# checks if a given status is ok or not.
-# if not, notify the erro and exit the script with error number 1.
-#check_status() {
-#	if [ "$1" -ne "0" ]; then
-#		echo_status_fail ""
-#		echo "An error occurred, please check the logs"
-#		exit 1;
-#	fi
-#}
-
 # creates the user and a tenant on the cloud, this user will be the only one in the created tenant.
 create_user() {
 	echo -n "Wait while the user is being created..."
@@ -145,7 +109,7 @@ create_credentials_file() {
 	echo "export OS_EMAIL=$guest_email" >> $guest_file
 	echo "export OS_TENANT_ID=$(tenant_id)" >> $guest_file
 	echo "export OS_TENANT_NAME=$guest_username" >> $guest_file
-	echo "export OS_AUTH_URL=http://10.0.0.14:5000/v2.0" >> $guest_file
+	echo "export OS_AUTH_URL=http://controller.srv.cloud.citta.org.br:5000/v2.0" >> $guest_file
 }
 
 # register this user on the current existing guest file.
