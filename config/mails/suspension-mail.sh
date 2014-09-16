@@ -3,9 +3,18 @@
 SENDER="heitor@silibrina.com"
 
 send_confirmation_email() {
-	mail -s "Sua conta na nuvem do CITTA foi suspensa" -r $SENDER -t $guest_email << EOF
-Olá, $guest_username.
-Sua conta foi suspensa, entre em contato com alguém aí pra dar um jeito nisso.
+	mail -s "$(echo -e "Sua conta na nuvem do CITTA foi suspensa\nContent-Type: text/html")" -r $SENDER -t $guest_email << EOF
+
+<p>Olá, <b>$guest_username</b>.</p>
+</br>
+</br>
+<div>Informamos que sua conta foi <b>suspensa</b> de acordo com nossas politicas de acesso.</div>
+<div>Apos 24 horas, sua conta sera removida do nosso sistema.</div></br>
+</br>
+<div><p>Para mais informações, entre em contato com a adminstração da nuvem CITTA.</p></div></br>
+</br>
+<div><p>Obrigado.</p></div>
+<img src="http://citta.org.br/images/marca_citta.png" alt="Citta Logo" width=100 height=50>
 EOF
 }
 

@@ -123,6 +123,7 @@ register_for_expiration() {
 
 # sends the confirmation email with the credentials file attached.
 send_confirmation_email() {
+	local guest_file=$CREDENTIALS_DIR/guest230341-openrc.sh
 	$CONFIRMATION_MAIL --username $guest_username --email $guest_email --password $guest_password --credentials_file $guest_file >> $LOG_FILE
 	check_status $?;
 }
@@ -132,9 +133,9 @@ run_creation() {
 	echo "==================== CREATING USER =================" >> $LOG_FILE
 	verify_credetials
 	define_parameters $@
-	create_user
-	create_credentials_file
-	register_for_expiration
+	#create_user
+	#create_credentials_file
+	#register_for_expiration
 	send_confirmation_email
 	debug_variables
 	echo "==================== END CREATION =================" >> $LOG_FILE

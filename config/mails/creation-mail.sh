@@ -3,15 +3,34 @@
 SENDER="heitor@silibrina.com"
 
 send_confirmation_email() {
-	mail -s "Bem vindo a nuvem do CITTA" -A $guest_credentials_file -r $SENDER -t $guest_email << EOF
-Olá, $guest_username.
-Bem vindo a nuvem do CITTA. Para acessar a página, visite o endereço http://cloud.citta.org.br.
-Seu nome de usuário é $guest_username e sua senha é $guest_password.
-
-Anexo segue suas credenciais para acesso via linha de comando.
-
-Em caso de alguma dúvida ou problema, não exite em nos contactar.
-(Bora melhorar essa mensagem.)
+	#mail -s "$(echo -e "Bem vindo a nuvem do CITTA\nContent-Type: text/html")" -A $guest_credentials_file -r $SENDER -t $guest_email << EOF
+	#mail -s "Bem vindo a nuvem do CITTA" -r $SENDER -t $guest_email -a 'Content-Type: text/html;' --content-type="Content-Type: text/html" -A $guest_credentials_file  << EOF
+	mail -A $guest_credentials_file -s  "$(echo -e "Bem vindo a nuvem do CITTA\nContent-Type: text/html")" -r $SENDER -t $guest_email --content-type="text/html"  -a 'Content-Type: text/html' -a 'Content-type: text/html; charset="utf-8"' << EOF
+<html>
+<body>
+<p>Olá, <b>$guest_username</b>.</p>
+</br>
+</br>
+<div>Bem vindo a nuvem do CITTA. Para acessar a página, visite o endereço <a href="http://cloud.citta.org.br">http://cloud.citta.org.br</a>.</div>
+</br>
+<div>
+	<p>Seu nome de usuário é: <b>$guest_username</b> e sua senha é: <b>$guest_password</b></p>
+</div>
+</br>
+<div>
+	<p>Anexo segue suas credenciais para acesso via linha de comando.</p>
+</div>
+</br>
+<div>
+	<p>Você pode acessar um guia rápido de uso <a href="https://docs.google.com/document/d/1DIfC9pPsUlBaJ8VjCZRGghD_0N_YibRVzWJJfL9ptUo/edit?usp=sharing">aqui</a></p>
+</div>
+<div>
+	<p>Em caso de dúvida ou problema, não exite em nos contactar.</p>
+</div>
+<div><p>Obrigado.</p></div>
+<img src="http://citta.org.br/images/marca_citta.png" alt="Citta Logo" width=100 height=50>
+</body>
+</html>
 EOF
 }
 

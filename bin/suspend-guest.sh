@@ -26,7 +26,7 @@ suspend_instances() {
 suspend_tenant() {
 	echo "==> Suspending tenant..."
 	keystone tenant-update $guest_username --enabled=disable
-	check_status
+	check_status $?
 	echo "==> Done"
 }
 
