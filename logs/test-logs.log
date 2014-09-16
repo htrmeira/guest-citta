@@ -242,3 +242,27 @@ username=guest714909
 email=htrmeira@gmail.com
 role=58cda5ba854642378e89c62bb0ee656d
 ==================== END CREATION =================
+==================== CREATING USER =================
++----------+----------------------------------+
+| Property |              Value               |
++----------+----------------------------------+
+|  email   |        htrmeira@gmail.com        |
+| enabled  |               True               |
+|    id    | 49edc971ed23495c8c484d1af81ce239 |
+|   name   |           guest589812            |
+| username |           guest589812            |
++----------+----------------------------------+
++-------------+-------------------------------------------+
+|   Property  |                   Value                   |
++-------------+-------------------------------------------+
+| description | Projeto criado para o usuario guest589812 |
+|   enabled   |                    True                   |
+|      id     |      e3cdaf5708594ac28456517c005e8961     |
+|     name    |                guest589812                |
++-------------+-------------------------------------------+
+created_at=Ter Set 16 14:41:08 BRT 2014
+date_stamp=1410889268
+username=guest589812
+email=htrmeira@gmail.com
+role=58cda5ba854642378e89c62bb0ee656d
+==================== END CREATION =================
