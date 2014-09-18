@@ -6,12 +6,19 @@
 
 ######################### BEGIN OF CONFIG #########################
 
-source ../config/environment.sh
+# The parent directory where the script is installed.
+PARENT_DIR=/home/heitor/workspace/guest-citta
 
-########################## END OF CONFIG ##########################
+# The bin dir inside the parent dir.
+# This is the directory that stores the main scripts including this one.
+BIN_DIR=$PARENT_DIR/bin
 
-# checks if the email param was given.
-# this is the only mandatory parameter, so it will fail if this param is not given.
+source $PARENT_DIR/config/environment.sh
+
+########################## CHECKING PARAMS ##########################
+
+# Checks if the email param was given.
+# This is the only mandatory parameter, so it will fail if he was not given.
 check_email() {
 	if [ -z $guest_email ]; then
 		echo_fail "You must define an email!"
@@ -19,8 +26,8 @@ check_email() {
 	fi
 }
 
-# check if the username param was provided, if not generate a username.
-# the generated username starts with guestXXXXXX, where X is an integer between 0 and 9.
+# Checks if the username param was provided, if not, generate one.
+# The generated username starts with guestXXXXXX, where X is an integer between 0 and 9.
 check_username() {
 	if [ -z $guest_username ]; then
 		local guest_username_sufix=$(< /dev/urandom tr -dc 0-9 | head -c6; echo)
@@ -28,15 +35,15 @@ check_username() {
 	fi
 }
 
-# checks if a password was given as argument, if not it will generate a password.
-# the generated password will have 13 characters, that can be numbers and letters (capitalized or not) and _.
+# Checks if a password was given, if not, it will generate one.
+# The generated password will have 13 characters, that can be numbers and letters (capitalized or not) and _.
 check_password() {
 	if [ -z $guest_password ]; then
 		guest_password=$(< /dev/urandom tr -dc _A-Z-a-z-0-9 | head -c13; echo)
 	fi
 }
 
-# checks if a role was given, if not use the convidado role.
+# Checks if a role was given, if not, use the convidado role.
 check_role() {
 	if [ -z $guest_role ]; then
 		guest_role=$(keystone role-list | grep -i convidado | awk '{ print $2 }')
@@ -123,7 +130,6 @@ register_for_expiration() {
 
 # sends the confirmation email with the credentials file attached.
 send_confirmation_email() {
-	local guest_file=$CREDENTIALS_DIR/guest230341-openrc.sh
 	$CONFIRMATION_MAIL --username $guest_username --email $guest_email --password $guest_password --credentials_file $guest_file >> $LOG_FILE
 	check_status $?;
 }
@@ -133,9 +139,9 @@ run_creation() {
 	echo "==================== CREATING USER =================" >> $LOG_FILE
 	verify_credetials
 	define_parameters $@
-	#create_user
-	#create_credentials_file
-	#register_for_expiration
+	create_user
+	create_credentials_file
+	register_for_expiration
 	send_confirmation_email
 	debug_variables
 	echo "==================== END CREATION =================" >> $LOG_FILE

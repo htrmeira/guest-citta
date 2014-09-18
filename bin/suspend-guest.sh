@@ -35,6 +35,14 @@ send_notification() {
 	$SUSPENSION_MAIL --username $guest_username --email $guest_email
 }
 
+################# LOCAL ####################
+update_status() {
+	echo -n "==> Updating user status..."
+	sed  -i.bak "/^$usuario/{ s/: 0$/: 1/ }" $GUESTS_FILE
+	check_status_quietly $?
+	echo "==> Done"
+}
+
 ############# CHECKING PARAMETERS ##############
 
 # Define the arguments provided for this is script as variables and checks if it is all ok.
@@ -63,6 +71,7 @@ main() {
 
 	suspend_instances;
 	suspend_tenant;
+	update_status;
 
 	send_notification;
 }

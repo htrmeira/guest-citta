@@ -14,7 +14,6 @@ send_confirmation_email() {
 <div><p>Para mais informações, entre em contato com a adminstração da nuvem CITTA.</p></div></br>
 </br>
 <div><p>Obrigado.</p></div>
-<img src="http://citta.org.br/images/marca_citta.png" alt="Citta Logo" width=100 height=50>
 EOF
 }
 

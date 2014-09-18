@@ -27,12 +27,20 @@ DELETIONION_MAIL=../config/mails/deletion-mail.sh
 
 # formated echo with green OK.
 echo_status_ok() {
-	echo -e "$1 ............. \e[32mOK"; tput sgr0
+	if [ "$TERM" != "dumb" ];then
+		echo -e "$1 ............. \e[32mOK"; tput sgr0
+	else
+		echo -e "$1 ............. OK"
+	fi
 }
 
 # formated echo with red FAIL.
 echo_status_fail() {
-	echo -e "$1 ............. \e[31mFAIL"; tput sgr0
+	if [ "$TERM" != "dumb" ];then
+		echo -e "$1 ............. \e[31mFAIL"; tput sgr0
+	else
+		echo -e "$1 ............. FAIL"
+	fi
 }
 
 # checks if a given status is ok or not.
@@ -61,7 +69,11 @@ check_status_quietly() {
 }
 
 echo_fail() {
-	echo -e "\e[31m$1"  1>&2 ; tput sgr0
+	if [ "$TERM" != "dumb" ];then
+		echo -e "\e[31m$1"  1>&2 ; tput sgr0
+	else
+		echo -e "$1"  1>&2
+	fi
 }
 
 # verify if the variables necessary to make a conection with the cloud are declared.

@@ -3,7 +3,6 @@
 ######################### CONFIG #########################
 
 # TODO: check credentials
-# TODO: log stdout and stderr.
 
 source ../config/environment.sh
 
