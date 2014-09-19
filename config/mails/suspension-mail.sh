@@ -3,7 +3,7 @@
 SENDER="heitor@silibrina.com"
 
 send_confirmation_email() {
-	mail -s "$(echo -e "Sua conta na nuvem do CITTA foi suspensa\nContent-Type: text/html")" -r $SENDER -t $guest_email << EOF
+	mail -s "$(echo -e "Sua conta na nuvem do CITTA foi suspensa\nContent-Type: text/html")" -a "From: CITTA Cloud <$SENDER>" -r $SENDER -t $guest_email << EOF
 
 <p>Olá, <b>$guest_username</b>.</p>
 </br>

@@ -3,7 +3,7 @@
 SENDER="heitor@silibrina.com"
 
 send_confirmation_email() {
-	mail -s "$(echo -e "Bem vindo a nuvem do CITTA\nContent-Type: text/html")" -A $guest_credentials_file -r $SENDER -t $guest_email << EOF
+	mail -s "$(echo -e "Bem vindo a nuvem do CITTA\nContent-Type: text/html")" -a "From: CITTA Cloud <$SENDER>" -A $guest_credentials_file -r $SENDER -t $guest_email << EOF
 Olá, $guest_username.
 
 Bem vindo a nuvem do CITTA. Para acessar a página, visite o endereço http://cloud.citta.org.br.

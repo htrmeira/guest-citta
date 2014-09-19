@@ -10,8 +10,8 @@ CREDENTIALS_FILE_PATH=/root/auto-admin-openrc.sh
 TMP_CRON_FILE=/tmp/cron_content.tmp
 
 # Content of cron line for auto update of users
-#CRONLINE="*/2	*	*	*	*	/bin/bash -l $GUEST_SCRIPTS_HOME/bin/update-guests-by-time.sh --credentials $CREDENTIALS_FILE_PATH"
-CRONLINE="*	0	*	*	*	/bin/bash -l $GUEST_SCRIPTS_HOME/bin/update-guests-by-time.sh --credentials $CREDENTIALS_FILE_PATH"
+#CRONLINE="*/2	*	*	*	*	/bin/bash $GUEST_SCRIPTS_HOME/bin/update-guests-by-time.sh --credentials $CREDENTIALS_FILE_PATH"
+CRONLINE="*	0	*	*	*	/bin/bash $GUEST_SCRIPTS_HOME/bin/update-guests-by-time.sh --credentials $CREDENTIALS_FILE_PATH"
 
 # Copy the scripts to the destination directory.
 copy_scripts() {
