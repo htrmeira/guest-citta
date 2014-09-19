@@ -16,14 +16,14 @@ BIN_DIR=$PARENT_DIR/bin
 
 # This is the time for suspend a user after his creation.
 # Here we have 48h in seconds.
-#SUSPENSION_TIME=172800
-SUSPENSION_TIME=60
+SUSPENSION_TIME=172800
+#SUSPENSION_TIME=60
 
 # This is the time for delete a user after his creation.
 # Here we have 48h in seconds.
 # 72h in seconds
-#DELETION_TIME=259200
-DELETION_TIME=180
+DELETION_TIME=259200
+#DELETION_TIME=180
 
 # The current time in seconds.
 CURRENT_TIME=$(date +'%s')
