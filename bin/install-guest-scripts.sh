@@ -36,11 +36,15 @@ update_crontab() {
 		echo "$CRONLINE" >> $TMP_CRON_FILE
 		crontab $TMP_CRON_FILE
 	fi
+}
 
+create_directories() {
+	mkdir -p $GUEST_SCRIPTS_HOME/logs
 }
 
 main() {
 	copy_scripts;
+	create_directories;
 	configure_variables;
 	update_crontab;
 }

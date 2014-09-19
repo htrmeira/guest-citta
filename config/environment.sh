@@ -6,7 +6,7 @@
 PARENT_DIR=/home/heitor/workspace/guest-citta
 
 # file storing the logs.
-LOG_FILE=$PARENT_DIR/logs/creation-logs.log
+LOG_FILE=$PARENT_DIR/logs/creation.log
 
 # directory storing files of thes existent guests, like openrc, current user etc
 GUESTS_DIR=$PARENT_DIR/guests
