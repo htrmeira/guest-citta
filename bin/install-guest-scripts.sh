@@ -4,7 +4,7 @@
 GUEST_SCRIPTS_HOME=/opt/guests-scripts
 
 # Path to admin credentials file.
-CREDENTIALS_FILE_PATH=/home/heitor/.openstack-rc/auto-admin-openrc.sh
+CREDENTIALS_FILE_PATH=/root/auto-admin-openrc.sh
 
 # tmp cron file
 TMP_CRON_FILE=/tmp/cron_content.tmp
@@ -23,7 +23,7 @@ copy_scripts() {
 # Configure variables to point to the new install location.
 configure_variables() {
 	for script in cleanup-guest.sh create-guest.sh delete-guest.sh list-guest.sh suspend-guest.sh update-guests-by-time.sh; do
-		sed -r -i "s,^PARENT_DIR=.*,PARENT_DIR=$GUEST_SCRIPTS_HOME,g" $GUEST_SCRIPTS_HOME/bin/cleanup-guest.sh
+		sed -r -i "s,^PARENT_DIR=.*,PARENT_DIR=$GUEST_SCRIPTS_HOME,g" $GUEST_SCRIPTS_HOME/bin/$script
 	done
 }
 
