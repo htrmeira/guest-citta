@@ -7,6 +7,7 @@
 # # Ignore all logfiles and tempfiles.
 /tmp
 /log
+/guests
 *.swp
 *~
-#*.bak
+*.bak
