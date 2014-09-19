@@ -3,7 +3,7 @@
 ######################### BEGIN OF CONFIG #########################
 
 # file storing the logs.
-LOG_FILE=../logs/test-logs.log
+LOG_FILE=../logs/creation-logs.log
 
 # directory storing files of thes existent guests, like openrc, current user etc
 GUESTS_DIR=../guests
@@ -101,7 +101,7 @@ check_tenant() {
 	tenant_id=$(keystone tenant-list | grep $guest_username | awk '{ print $2 }')
 
 	if [ -z $tenant_id ]; then
-		echo_fail "Apparently, you are crazy and this user does not exist. Please check your parameters"
+		echo_fail "Apparently, you are crazy and this user does not exists. Please check your parameters"
 		exit 1;
 	fi
 }

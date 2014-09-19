@@ -83,6 +83,7 @@ delete_guest() {
 # Note that even if it is time for delete the user, it will first suspend it.
 run_update() {
 	while read guest_user; do
+		echo "======= [`date`] - checking: [$guest_user] ======="
 		local created_at_in_sec=$(get_created_at "$guest_user")
 		local creation_duration=$(($CURRENT_TIME - $created_at_in_sec))
 		local guest_status=$(get_status "$guest_user")
@@ -95,7 +96,7 @@ run_update() {
 			[ $guest_status == $SUSPENDED_STATUS ]; then
 			delete_guest $guest_username
 		fi
-
+		echo "======= [`date`] - finished: [$guest_user] ======="
 	done < $GUESTS_FILE
 }
 

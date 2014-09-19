@@ -1,7 +1,17 @@
 #!/bin/bash
+
+# This script lists all guest users on $GUESTS_FILE and prints them on the screen.
+
 ######################### CONFIG #########################
 
-source ../config/environment.sh
+# The parent directory where the script is installed.
+PARENT_DIR=/home/heitor/workspace/guest-citta
+
+# The bin dir inside the parent dir.
+# This is the directory that stores the main scripts.
+BIN_DIR=$PARENT_DIR/bin
+
+source $PARENT_DIR/config/environment.sh
 
 ############# CHECKING PARAMETERS ##############
 

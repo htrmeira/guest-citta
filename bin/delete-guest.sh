@@ -9,8 +9,6 @@
 
 ######################### BEGIN CONFIG #########################
 
-# TODO: check credentials
-
 # The parent directory where the script is installed.
 PARENT_DIR=/home/heitor/workspace/guest-citta
 
@@ -20,9 +18,7 @@ BIN_DIR=$PARENT_DIR/bin
 
 source $PARENT_DIR/config/environment.sh
 
-######################### END CONFIG #########################
-
-############# CHECKING PARAMETERS ##############
+######################## CHECKING PARAMETERS ####################
 
 # This method checks if a user was provided as argument of this script.
 # If not it will exit with error.
@@ -44,6 +40,15 @@ check_tenant() {
 	fi
 }
 
+show_help() {
+	echo "Paramters inside [] are not mandatory"
+	echo "Usage:  $0 -u | --username GUEST_USERNAME"
+	echo -e "\t$0 -h | --help"
+	echo
+	echo "-u | --username: the username of the guest (MANDATORY)"
+	echo "-h | --help: shows this help"
+}
+
 # Define the arguments provided for this is script as variables and checks if it is all ok.
 define_parameters() {
 	while [ ! -z $1 ]; do
@@ -51,6 +56,10 @@ define_parameters() {
 			-u | --username)
 				shift;
 				guest_username=$1;
+				;;
+			*)
+				show_help;
+				exit 0;
 				;;
 		esac
 		shift
@@ -130,6 +139,7 @@ send_notification() {
 
 ################ MAIN #################
 main() {
+	verify_credetials;
 	define_parameters $@;
 	success_or_die;
 
