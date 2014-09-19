@@ -16,7 +16,6 @@ CRONLINE="*	0	*	*	*	/bin/bash -l $GUEST_SCRIPTS_HOME/bin/update-guests-by-time.s
 # Copy the scripts to the destination directory.
 copy_scripts() {
 	mkdir -p $GUEST_SCRIPTS_HOME
-	#cp -r ../ $GUEST_SCRIPTS_HOME
 	rsync -a --exclude='.*' ../ $GUEST_SCRIPTS_HOME/
 }
 
@@ -25,10 +24,11 @@ configure_variables() {
 	for script in cleanup-guest.sh create-guest.sh delete-guest.sh list-guest.sh suspend-guest.sh update-guests-by-time.sh; do
 		sed -r -i "s,^PARENT_DIR=.*,PARENT_DIR=$GUEST_SCRIPTS_HOME,g" $GUEST_SCRIPTS_HOME/bin/$script
 	done
+	sed -r -i "s,^PARENT_DIR=.*,PARENT_DIR=$GUEST_SCRIPTS_HOME,g" $GUEST_SCRIPTS_HOME/config/environment.sh
 }
 
 update_crontab() {
-	local crongrep=`crontab -l | grep -v "#" |grep update-guests-by-time.sh `
+	local crongrep=`crontab -l | grep -v "#" | grep update-guests-by-time.sh`
 	if [ ! -z "$crongrep" ]; then
 		echo "cron already installed"
 	else

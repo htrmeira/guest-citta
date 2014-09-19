@@ -2,11 +2,14 @@
 
 ######################### BEGIN OF CONFIG #########################
 
+# The parent directory where the script is installed.
+PARENT_DIR=/home/heitor/workspace/guest-citta
+
 # file storing the logs.
-LOG_FILE=../logs/creation-logs.log
+LOG_FILE=$PARENT_DIR/logs/creation-logs.log
 
 # directory storing files of thes existent guests, like openrc, current user etc
-GUESTS_DIR=../guests
+GUESTS_DIR=$PARENT_DIR/guests
 
 # file with current existent users
 GUESTS_FILE=$GUESTS_DIR/current-guests.list
@@ -15,13 +18,13 @@ GUESTS_FILE=$GUESTS_DIR/current-guests.list
 CREDENTIALS_DIR=$GUESTS_DIR/credentials
 
 # script that sends the confirmation email
-CONFIRMATION_MAIL=../config/mails/creation-mail.sh
+CONFIRMATION_MAIL=$PARENT_DIR/config/mails/creation-mail.sh
 
 # script that send the notification about account suspension.
-SUSPENSION_MAIL=../config/mails/suspension-mail.sh
+SUSPENSION_MAIL=$PARENT_DIR/config/mails/suspension-mail.sh
 
 # script that sends the notification about account deletion.
-DELETIONION_MAIL=../config/mails/deletion-mail.sh
+DELETIONION_MAIL=$PARENT_DIR/config/mails/deletion-mail.sh
 
 ########################## END OF CONFIG ##########################
 
