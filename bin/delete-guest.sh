@@ -1,10 +1,26 @@
 #!/bin/bash
 
-######################### CONFIG #########################
+# This script cleans up a user and delete him with his tenant.
+# Note that we are considering the tenant with the same name as the guest username.
+# It will also send an email to user notifying about the removal of his user.
+# param $1:
+#   -u | --username: the username of the guest (MANDATORY)
+#   -h | --help: shows this help
+
+######################### BEGIN CONFIG #########################
 
 # TODO: check credentials
 
-source ../config/environment.sh
+# The parent directory where the script is installed.
+PARENT_DIR=/home/heitor/workspace/guest-citta
+
+# The bin dir inside the parent dir.
+# This is the directory that stores the main scripts including this one.
+BIN_DIR=$PARENT_DIR/bin
+
+source $PARENT_DIR/config/environment.sh
+
+######################### END CONFIG #########################
 
 ############# CHECKING PARAMETERS ##############
 
@@ -46,12 +62,14 @@ define_parameters() {
 ######################### CLEAN UP #########################
 
 cleanup_user() {
-	./cleanup-guest.sh --username $guest_username
+	$BIN_DIR/cleanup-guest.sh --username $guest_username
 	success_or_die
 }
 
-###################### KEYSTONE ####################
+######################## KEYSTONE #########################
 
+# Deletes the user on keystone.
+# This is the real deletion of user. After this, it will be no able not login.
 delete_user() {
 	echo -n "==> Deleting user $guest_username..."
 	keystone user-delete $guest_username
@@ -59,6 +77,7 @@ delete_user() {
 	echo "==> Done"
 }
 
+# Deletes the tenant with the same name as the guest username.
 delete_tenant() {
 	echo -n "==> Deleting tenant $guest_username..."
 	keystone tenant-delete $guest_username
@@ -66,6 +85,9 @@ delete_tenant() {
 	echo "==> Done"
 }
 
+######################### LOCAL #########################
+
+# Deletes the credentials file of the guest user.
 delete_credentials() {
 	local credentials_file=$CREDENTIALS_DIR/$guest_username-openrc.sh;
 	echo "==> Removing credentials ($credentials_file)..."
@@ -80,6 +102,7 @@ delete_credentials() {
 	echo "==> Done"
 }
 
+# Removes the entry for this user on $GUESTS_FILE
 delete_guest_status() {
 	echo -n "==> Removing guest user from current users..."
 	sed -i.bak "/^$guest_username \:/d" $GUESTS_FILE
@@ -87,6 +110,10 @@ delete_guest_status() {
 	echo "==> Done"
 }
 
+# Sets the tenants to enabled.
+# This is necessary because suspending a user is updating the tenant to disbled
+# and when disabled, the credentials of the user could not be loaded for
+# the cleanup fase.
 resurrect_tenant() {
 	keystone tenant-update $guest_username --enabled=True
 	success_or_die;
@@ -94,6 +121,7 @@ resurrect_tenant() {
 
 ################## EMAIL ##############
 
+# Sends an email notifying the user about the deletion of his user on the cloud.
 send_notification() {
 	local guest_email=$(keystone user-list | grep -i "| *$guest_username *|" | awk -F\| '{ print $5 }' | tr -d ' ')
 	success_or_die;

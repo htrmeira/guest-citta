@@ -2,8 +2,15 @@
 
 # This script creates a guest user, this user will have his own tenant.
 # Originally, this guest user will exist only for a few days,
-# that why we keep track of the creation date.
-
+# that is the reason we keep track of the creation date.
+# param $1:
+#	-h | --help: shows a brief help of how to use this script
+# params:
+#	-e | --email: the email of the user (MANDATORY)
+#	-u | --username: the username, generated if not given
+#	-p | --password: the password, generated if not given
+#	-r | --role: the role, convidado if not given
+#
 ######################### BEGIN OF CONFIG #########################
 
 # The parent directory where the script is installed.
@@ -147,7 +154,7 @@ run_creation() {
 	echo "==================== END CREATION =================" >> $LOG_FILE
 }
 
-# shows a short help.
+# shows a brief help of how to use this script.
 show_help() {
 	echo "Paramters inside [] are not mandatory"
 	echo "Usage: $0 create -e | --email user@email.com [-u | --username user_name] [-p | --password password] [-r | --role role]"
@@ -157,13 +164,19 @@ show_help() {
 	echo "-r | --role: the role, convidado if not given"
 }
 
-case $1 in
-	create)
-		run_creation $@;
-		exit 0;
-		;;
-	*)
-		show_help;
-		exit 0;
-		;;
-esac
+###################### MAIN ####################
+
+main() {
+	case $1 in
+		-h | --help)
+			show_help;
+			exit 0;
+			;;
+		*)
+			run_creation $@;
+			exit 0;
+			;;
+	esac
+}
+
+main $@;

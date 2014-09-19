@@ -1245,3 +1245,33 @@ username=guest083158
 email=htrmeira@gmail.com
 role=58cda5ba854642378e89c62bb0ee656d
 ==================== END CREATION =================
+==================== CREATING USER =================
+==================== CREATING USER =================
+==================== CREATING USER =================
+==================== CREATING USER =================
+==================== CREATING USER =================
+==================== CREATING USER =================
++----------+----------------------------------+
+| Property |              Value               |
++----------+----------------------------------+
+|  email   |        htrmeira@gmail.com        |
+| enabled  |               True               |
+|    id    | 6ef47543af0c4c1b8c79ff060c3e363f |
+|   name   |           guest469342            |
+| username |           guest469342            |
++----------+----------------------------------+
++-------------+-------------------------------------------+
+|   Property  |                   Value                   |
++-------------+-------------------------------------------+
+| description | Projeto criado para o usuario guest469342 |
+|   enabled   |                    True                   |
+|      id     |      582f894508e94066b5340a4e7a1e56c5     |
+|     name    |                guest469342                |
++-------------+-------------------------------------------+
+created_at=Sex Set 19 10:46:14 BRT 2014
+date_stamp=1411134374
+username=guest469342
+email=htrmeira@gmail.com
+role=58cda5ba854642378e89c62bb0ee656d
+==================== END CREATION =================
+==================== CREATING USER =================

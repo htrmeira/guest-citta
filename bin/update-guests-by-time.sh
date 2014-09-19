@@ -67,14 +67,14 @@ get_guest_username() {
 # param $1:
 #	The username of the guest.
 suspend_guest() {
-	$PARENT_DIR/suspend-guest.sh --username $1
+	$BIN_DIR/suspend-guest.sh --username $1
 }
 
 # Runs the script that delets a guest user his tenant.
 # param $1:
 #	The username of the guest.
 delete_guest() {
-	$PARENT_DIR/delete-guest.sh --username $1
+	$BIN_DIR/delete-guest.sh --username $1
 }
 
 # Update the status of a user.
@@ -104,14 +104,18 @@ run_update() {
 # param $1:
 #	The path of credentials file.
 load_credentials() {
-	if [ ! -e $1 ]; then
+	if [ -z $1  ]; then
+		echo_fail "You must specify a credentials file"
+		exit 1;
+	elif [ ! -e $1 ]; then
 		echo_fail "The crendentials of this user does not exists.";
 		exit 1;
 	elif [ ! -s $1 ]; then
 		echo_fail "The file with the credentials seems to be empty. Please check it.";
 		exit 1;
+	else
+		source $1
 	fi
-	source $1
 }
 
 show_help() {
@@ -130,17 +134,16 @@ define_parameters() {
 			-c | --credentials)
 				shift;
 				credentials_file=$1;
-				load_credentials $credentials_file;
-				success_or_die;
-				exit 0;
 				;;
-			-h | --help)
+			*)
 				show_help;
 				exit 0;
+				;;
 		esac
 		shift
 	done
-	show_help;
+	load_credentials $credentials_file;
+	success_or_die;
 }
 
 ###################### MAIN ####################

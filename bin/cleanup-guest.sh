@@ -1,24 +1,40 @@
 #!/bin/bash
 
-# This script removes a guest user with his tenant, instances, volumes, snapshots, snapshots volumes, networks and routers, trove instances and backups, heat stacks and backups.
+# This script removes all the instances, volumes, snapshots, snapshots volumes,
+# networks and routers, trove instances and backups, heat stacks and backups of a guest user.
+# It will cleanup the tenanant of this user freeing the resource used by him
+# making it ready to be deleted.
+#
+# Note that for all parameters asking for a tenant, it will provide one with the
+# same name as guest username.
+# param $1:
+#	-u | --username: the username of the guest (MANDATORY)
+#	-h | --help: shows this help
 
 ######################### BEGIN OF CONFIG #########################
 
-# TODO: redirect output of the comands to a log file. (both stdout and stderr).
-# TODO: check credentials are loaded.
+# The parent directory where the script is installed.
+PARENT_DIR=/home/heitor/workspace/guest-citta
 
-source ../config/environment.sh
+# The bin dir inside the parent dir.
+# This is the directory that stores the main scripts including this one.
+BIN_DIR=$PARENT_DIR/bin
 
-########################## END OF CONFIG ##########################
+source $PARENT_DIR/config/environment.sh
+
+########################## END CONFIG ##########################
 
 
 #################### NOVA ####################
 
+# Lists the ids of all instances of the given user.
+# It will consider that you are running the scriptwith the credentials
+# of the user being deleted.
 list_instance_ids() {
 	nova list | grep -i "^|" | grep -v "^| *ID *|" | awk '{ print $2 }'
 }
 
-# Terminate instances for the tenant of the given user.
+# Terminate instances all instances of this guest-tenant.
 terminate_instances() {
 	echo "==> Terminating instances..."
 	instance_ids=`list_instance_ids`
@@ -34,13 +50,12 @@ terminate_instances() {
 
 #################### TROVE ####################
 
-# Lists the ids of the existing trove backups of the given user.
-# This will filter and remove the table lines and headers, resulting in a list of ids.
+# Lists the ids of all trove backups of the given user-tenant.
 list_trove_backup_ids() {
 	trove backup-list | grep -i "^| " | grep -vi "^| *id *|" | awk '{ print $2 }'
 }
 
-# Delete all trove backups for the tenant of the given user.
+# Deletes all trove backups for the tenant of the given user-tenant.
 delete_trove_bakups() {
 	echo "==> Deleting trove backups..."
 	local trove_backup_ids=$(list_trove_backup_ids)
@@ -54,12 +69,12 @@ delete_trove_bakups() {
 	echo "==> Done"
 }
 
-# List trove instance ids for the tenant of the given user.
+# List the ids of all trove instances of the given user-tenant.
 list_trove_ids() {
 	trove list | grep -i "^| " | grep -vi "^| *id *|" | awk '{ print $2 }'
 }
 
-# Deletes all trove instances for the tenant of the given user.
+# Deletes all trove instances of the given user-tenant.
 delete_trove_instances() {
 	echo "==> Deleting trove instances..."
 	local trove_ids=$(list_trove_ids)
@@ -75,13 +90,12 @@ delete_trove_instances() {
 
 #################### GLANCE ####################
 
-# This method lists the ids of all the images and snapshots of the tenant in use.
+# Lists the ids of all images and snapshots of the given tenant.
 list_image_ids() {
 	glance image-list --owner $tenant_id | grep -i "^| " | grep -v "ID" | awk '{ print $2 }'
 }
 
-# Removes the images and snapshots belonging to the tenant in use.
-# The tentant id is defined in $tenant_id
+# Removes the images and snapshots of the given user-tenant.
 delete_images() {
 	echo "==> Deleting images and snapshots..."
 	local image_ids=$(list_image_ids)
@@ -98,12 +112,12 @@ delete_images() {
 
 #################### CINDER ####################
 
-# List ids of the volume snapshots.
+# List the ids of all volume snapshots of the given user-tenant.
 list_volume_snapshot_ids() {
 	cinder snapshot-list |  grep -i "^| " | grep -v "^| *ID *|" | awk '{ print $2 }'
 }
 
-# Deletes all volume snapshots belonging to the tenant of the given user.
+# Deletes all volume snapshots of the given user-tenant.
 delete_volume_snapshots() {
 	echo "	==> Deleting volume snapshots..."
 	local volume_snapshot_ids=$(list_volume_snapshot_ids)
@@ -117,7 +131,7 @@ delete_volume_snapshots() {
 	echo "	==> Done"
 }
 
-# List the volume ids for the tenant of the given user.
+# List the ids of all volumes of the given user-tenant.
 list_volume_ids() {
 	cinder list | grep -i "^| " | grep -v "^| *ID *|" | awk '{ print $2 }'
 }
@@ -133,7 +147,7 @@ check_snapshot_exists() {
 	return 1
 }
 
-# Deletes the volumes of the tenant for the given user.
+# Deletes all volumes of the given user-tenant.
 delete_volumes() {
 	echo "==> Deleting volumes..."
 	local volume_ids=$(list_volume_ids)
@@ -157,18 +171,19 @@ delete_volumes() {
 
 #################### NEUTRON ####################
 
-# List all routers beloging to the tenant of the given user.
+# List the ids of all router of the given user-tenant.
 list_routers() {
 	neutron router-list 2>/dev/null | grep -i "^|" | grep -v "| *id *|" | awk '{ print $2 }'
 }
 
 # Lists all ports linked to the given router.
-# param: router id.
+# param $1:
+#	The router id.
 list_router_ports() {
 	neutron router-port-list $1 2>/dev/null | grep -i "^|" | grep -v "^| *id *|" | awk '{ print $2 }'
 }
 
-# Deletes all routers beloging to the tenant of the given user.
+# Deletes all routers of the given user-tenant.
 delete_routers() {
 	echo "==> Deleting routers..."
 	local router_ids=$(list_routers)
@@ -186,20 +201,22 @@ delete_routers() {
 	echo "==> Done"
 }
 
-# List all ports beloging to the given subnet.
-# param: subnet_id
+# List all ports belonging to the given subnet.
+# param $1:
+#	The subnet id
 list_ports() {
 	neutron port-list 2>/dev/null | grep -i "subnet_id....$1" | awk '{ print  $2}'
 }
 
 # Deletes the given port.
-# param: port_id
+# param $1:
+#	The port id
 delete_port() {
 	neutron port-delete $i 2>/dev/null
 	echo -n "."
 }
 
-# List the ids of all subnets beloging to the tenant of the given user.
+# List the ids of all subnets of the given user-tenant.
 list_subnets_ids() {
 	local subnet_ids=$(neutron subnet-list 2>/dev/null | grep -i "^|" | grep -v "^| *id *|" | awk '{ print $2 }')
 	for subnet_id in $subnet_ids; do
@@ -210,7 +227,7 @@ list_subnets_ids() {
 	done
 }
 
-# Deletes all subnets, and thereby all ports beloging to theses subnets.
+# Deletes all subnets, and thereby all ports belonging to these subnets.
 delete_subnets() {
 	echo "==> Deleting subnets..."
 	local subnet_ids=$(list_subnets_ids)
@@ -228,7 +245,7 @@ delete_subnets() {
 	echo "==> Done"
 }
 
-# Lists net ids beloging to the tenant of the given user.
+# Lists the ids of all networks of the given user-tenant.
 list_net_ids() {
 	local net_ids=$(neutron net-list 2>/dev/null | grep -i "^|" | grep -v "| *id *|" | awk '{ print $2 }')
 	for net_id in $net_ids; do
@@ -239,9 +256,9 @@ list_net_ids() {
 	done
 }
 
-# Deletes all networks beloging to the tenant of the given user.
+# Deletes all networks of the given user-tenant.
 # Note that you must only call this method after having successfully
-# deleted all routers, subnets and ports beloging to this net.
+# deleted all routers, subnets and ports beloging to this network.
 delete_nets() {
 	echo "==> Deleting nets..."
 	local net_ids=$(list_net_ids)
@@ -289,6 +306,15 @@ load_creadentials() {
 	source $credentials_file;
 }
 
+show_help() {
+	echo "Paramters inside [] are not mandatory"
+	echo "Usage:  $0 -u | --username GUEST_USERNAME"
+	echo -e "\t$0 -h | --help"
+	echo
+	echo "-u | --username: the username of the guest (MANDATORY)"
+	echo "-h | --help: shows this help"
+}
+
 # Define the arguments provided for this is script as variables and checks if it is all ok.
 define_parameters() {
 	while [ ! -z $1 ]; do
@@ -296,6 +322,10 @@ define_parameters() {
 			-u | --username)
 				shift;
 				guest_username=$1;
+				;;
+			*)
+				show_help;
+				exit 0;
 				;;
 		esac
 		shift
