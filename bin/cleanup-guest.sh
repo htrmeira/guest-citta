@@ -212,7 +212,7 @@ list_ports() {
 # param $1:
 #	The port id
 delete_port() {
-	neutron port-delete $i 2>/dev/null
+	neutron port-delete $1 2>/dev/null
 	echo -n "."
 }
 
